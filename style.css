@@ -2,3 +2,41 @@
     margin: 0;
     padding: 0;
 }
+nav{
+    background-color: pink;
+    height: 63px;
+}
+main{
+    background-color: black;
+    color: white;
+}
+.container{
+    background-color: green;
+    /* height: 540px; */
+    margin: 23px 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 500px;
+    width: 500px;
+    /* background-color: red; */
+    margin: 15px 50px;
+    border: 2px solid blue;
+}
+.box1{
+    background-color: pink;
+}
+.box2{
+    background-color: lightblue;
+}
+.text-box{
+    padding: 34px;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
